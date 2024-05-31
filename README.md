@@ -17,3 +17,5 @@ By the end of this lab, participants will be able to:
 
 Cloud architecture for eCommerce platform:
 -----------
+
+![Ecomerce](https://github.com/gustavoleonh/ironhack-lab11/assets/116121540/a3d249a9-beb5-49cf-ad6d-994158538ee8)
